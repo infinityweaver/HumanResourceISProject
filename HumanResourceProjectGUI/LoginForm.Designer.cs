@@ -88,6 +88,7 @@
             Name = "LoginForm";
             StartPosition = FormStartPosition.CenterScreen;
             Text = "Account Login";
+            FormClosing += LoginForm_FormClosing;
             Load += LoginForm_Load;
             ResumeLayout(false);
             PerformLayout();

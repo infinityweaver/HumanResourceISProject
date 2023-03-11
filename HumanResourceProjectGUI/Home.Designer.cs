@@ -34,7 +34,7 @@
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(211, 41);
+            ClientSize = new Size(216, 51);
             FormBorderStyle = FormBorderStyle.FixedSingle;
             Name = "Home";
             StartPosition = FormStartPosition.CenterScreen;
